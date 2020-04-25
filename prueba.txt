@@ -1,0 +1,2 @@
+pos estoy probando Git para no quedarme en 
+ingenieria de sistema 2: mas sistema que nunca
